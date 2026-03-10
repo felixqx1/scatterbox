@@ -14,7 +14,7 @@
             <span class="text-2xl" >I'm felixq and I'm a
                 <span class="text-rotate">
                     <span>
-                        <span class="px-2">roblox developer.</span>
+                        <span class="px-2">roblox game developer.</span>
                         <span class="px-2">discord bot developer.</span>
                         <span class="px-2">back-end developer.</span>
                     </span>
@@ -33,6 +33,16 @@
             </a>
             </div>
         </h1>
+        <div class="absolute bottom-0 mb-5" >
+            <span class="font-bold text-xl" >scroll down</span>
+            <span class="transition-transform duration-500 ease-in-out w-screen flex justify-center">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="size-6">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5">
+                        
+                    </path>
+                </svg>
+            </span>
+        </div>
     </div>
     <div class="bg-base-300 flex flex-col items-center justify-center rounded-lg p-10 mx-5 mb-10">
         <h2 class="text-3xl font-bold mb-4">Experience:</h2>
