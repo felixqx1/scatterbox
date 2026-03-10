@@ -5,8 +5,7 @@ permissions:
 on:
     push:
         branches:
-            - main
-            - Svelte-Migration
+            - master
     workflow_dispatch:
 
 jobs:
@@ -24,7 +23,7 @@ jobs:
                   password: ${{ secrets.DOCKER_PASSWORD }}
 
             - name: Build Docker images
-              run: docker build -f dockerfile -t vfxd9/oakrige-wiki:frontend .
+              run: docker build -f dockerfile -t vfxd9/scatterbox .
 
             - name: Push Docker images
-              run: docker push vfxd9/oakrige-wiki:frontend
+              run: docker push vfxd9/scatterbox
