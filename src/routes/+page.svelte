@@ -4,6 +4,7 @@
     const Discord = '/images/icons/Discord.svg'
     const aether = '/images/aether.webp'
     const cfrf = '/images/cfrf.webp'
+    const onpsWiki = '/images/onpsWiki.avif'
 </script>
 
 <main>
@@ -46,7 +47,7 @@
     </div>
     <div class="bg-base-300 flex flex-col items-center justify-center rounded-lg p-10 mx-5 mb-10">
         <h2 class="text-3xl font-bold mb-4">Experience:</h2>
-        <div class="grid grid-cols-2 gap-6">
+        <div class="grid grid-cols-3 gap-6">
             <div class="card bg-base-200 shadow-sm">
                 <figure>
                     <img
@@ -56,6 +57,21 @@
                 <div class="card-body">
                     <a class="card-title underline" href="https://www.roblox.com/games/74117404713109/Site-Aether" target="_blank" rel="noopener noreferrer">
                     [SCP:F] Site Aether
+                    </a>
+                    <p></p>
+                    <div class="card-actions justify-end">
+                    </div>
+                </div>
+            </div>
+            <div class="card bg-base-200 shadow-sm">
+                <figure>
+                    <img
+                    src={onpsWiki}
+                    alt="onpsWiki" />
+                </figure>
+                <div class="card-body">
+                    <a class="card-title underline" href="https://wiki.koyot.digital/" target="_blank" rel="noopener noreferrer">
+                    ONPS wiki
                     </a>
                     <p></p>
                     <div class="card-actions justify-end">
