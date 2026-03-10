@@ -36,7 +36,7 @@
     </div>
     <div class="bg-base-300 flex flex-col items-center justify-center rounded-lg p-10 mx-5 mb-10">
         <h2 class="text-3xl font-bold mb-4">Experience:</h2>
-        <div class="grid grid-cols-3 gap-6">
+        <div class="grid grid-cols-2 gap-6">
             <div class="card bg-base-200 shadow-sm">
                 <figure>
                     <img
