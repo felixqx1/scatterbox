@@ -22,6 +22,7 @@
                     </span>
                 </span>
             </span>
+            <br/>
             <span class="text-2xl" > With 5 years of experience and I want to help you build amazing things!</span>
             </div>
             <div class="justify-center gap-4 mt-8 flex">
