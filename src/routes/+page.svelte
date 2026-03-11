@@ -2,6 +2,7 @@
     import '../app.css'
     const GitHub = '/images/icons/github-mark.svg'
     const Discord = '/images/icons/Discord.svg'
+    const gnupg = '/images/icons/GnuPG.webp'
     const aether = '/images/aether.webp'
     const cfrf = '/images/cfrf.webp'
     const onpsWiki = '/images/onpsWiki.avif'
@@ -27,7 +28,9 @@
             <a href="https://github.com/felixqx1" target="_blank" rel="noopener noreferrer">
                 <img src={GitHub} alt="GitHub" class="w-8 h-8" />
             </a>
-
+            <a href="./gpg.asc" target="_blank" rel="noopener noreferrer">
+                <img src={gnupg} alt="GitHub" class="w-8 h-8" />
+            </a>
             <a href="https://discord.com/users/975744322551054346" target="_blank" rel="noopener noreferrer">
                 <img src={Discord} alt="Discord" class="w-8 h-8" />
             </a>
