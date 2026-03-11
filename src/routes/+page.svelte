@@ -5,6 +5,7 @@
     const aether = '/images/aether.webp'
     const cfrf = '/images/cfrf.webp'
     const onpsWiki = '/images/onpsWiki.avif'
+    const scatterbox = '/images/scatterbox.webp'
 </script>
 
 <main>
@@ -152,4 +153,20 @@
             </div>
         </div>
     </div>
+
+<footer class="footer footer-horizontal footer-center bg-base-100 text-primary-content p-10">
+  <aside>
+    <img
+        src={scatterbox}
+        alt="scatterbox logo"
+        class="w-12 h-12 rounded-full mb-2"
+    />
+    <p class="font-bold">
+      scatterbox inc.
+      <br />
+    </p>
+    <p>Copyright © {new Date().getFullYear()} - All right reserved</p>
+  </aside>
+</footer>
+
 </main>
