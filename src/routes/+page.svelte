@@ -48,7 +48,7 @@
     </div>
     <div class="bg-base-300 flex flex-col items-center justify-center rounded-lg p-10 mx-5 mb-10">
         <h2 class="text-3xl font-bold mb-4">Experience:</h2>
-        <div class="grid grid-cols-3 gap-6">
+        <div class="grid lg:grid-cols-3 sm:grid-cols-1 gap-6">
             <div class="card bg-base-200 shadow-sm">
                 <figure>
                     <img
@@ -122,17 +122,17 @@
             </div>
         </div>
         <h2 class="text-3xl font-bold mt-10 mb-4">Contact me:</h2>
-        <div class="grid justify-center grid-cols-2 gap-6">
+        <div class="grid justify-center lg:grid-cols-2 sm:grid-cols-1 gap-6">
             <div class="card bg-base-200 card-md shadow-sm">
                 <div class="card-body">
                     <h2 class="card-title justify-center">For hosting:</h2>
                     <div class="flex w-full flex-col">
-                        <div class="card bg-base-300 rounded-box grid h-20 place-items-center">
-                            <p class="px-5">send me an email at <a href="mailto:hosting@scatterbox.dev" class="link" target="_blank" rel="noopener noreferrer">hosting@scatterbox.dev</a></p>
+                        <div class="card bg-base-300 rounded-box grid place-items-center">
+                            <p class="p-7">send me an email at <a href="mailto:hosting@scatterbox.dev" class="link" target="_blank" rel="noopener noreferrer">hosting@scatterbox.dev</a></p>
                         </div>
                     <div class="divider">OR</div>
-                        <div class="card bg-base-300 rounded-box grid h-20 place-items-center">
-                            <p class="px-5">message me on <a href="https://discord.com/users/975744322551054346" class="link" target="_blank" rel="noopener noreferrer">discord</a></p>
+                        <div class="card bg-base-300 rounded-box grid place-items-center">
+                            <p class="p-7">message me on <a href="https://discord.com/users/975744322551054346" class="link" target="_blank" rel="noopener noreferrer">discord</a></p>
                         </div>
                     </div>
                 </div>
@@ -141,12 +141,12 @@
                 <div class="card-body">
                     <h2 class="card-title justify-center"> Hire me:</h2>
                     <div class="flex w-full flex-col">
-                        <div class="card bg-base-300 rounded-box grid h-20 place-items-center">
-                            <p class="px-5">send me an email at <a href="mailto:contact@scatterbox.dev" class="link" target="_blank" rel="noopener noreferrer">contact@scatterbox.dev</a></p>
+                        <div class="card bg-base-300 rounded-box grid place-items-center">
+                            <p class="p-7">send me an email at <a href="mailto:contact@scatterbox.dev" class="link" target="_blank" rel="noopener noreferrer">contact@scatterbox.dev</a></p>
                         </div>
                     <div class="divider">OR</div>
-                        <div class="card bg-base-300 rounded-box grid h-20 place-items-center">
-                            <p class="px-5">message me on <a href="https://discord.com/users/975744322551054346" class="link" target="_blank" rel="noopener noreferrer">discord</a></p>
+                        <div class="card bg-base-300 rounded-box grid  place-items-center">
+                            <p class="p-7">message me on <a href="https://discord.com/users/975744322551054346" class="link" target="_blank" rel="noopener noreferrer">discord</a></p>
                         </div>
                     </div>
                 </div>
