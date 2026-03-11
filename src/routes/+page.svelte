@@ -12,7 +12,6 @@
     <div class="hero min-h-screen text-center">
         <h1 class="text-5xl font-bold">Hi there! <span class="wave">👋</span>
             <div>
-            <br />
             <span class="text-2xl" >I'm felixq and I'm a
                 <span class="text-rotate">
                     <span>
@@ -22,7 +21,6 @@
                     </span>
                 </span>
             </span>
-            <br />
             <span class="text-2xl" > With 5 years of experience and I want to help you build amazing things!</span>
             </div>
             <div class="justify-center gap-4 mt-8 flex">
