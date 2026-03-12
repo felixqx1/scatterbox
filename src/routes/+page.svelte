@@ -9,6 +9,10 @@
     const scatterbox = '/images/scatterbox.webp'
 </script>
 
+<svelte:head>
+    <title>portfolio</title>
+</svelte:head>
+
 <main>
     <div class="hero min-h-screen text-center">
         <h1 class="text-5xl font-bold">Hi there! <span class="wave">👋</span>
