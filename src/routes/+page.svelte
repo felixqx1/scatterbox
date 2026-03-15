@@ -7,6 +7,7 @@
     const cfrf = '/images/cfrf.webp'
     const onpsWiki = '/images/onpsWiki.avif'
     const scatterbox = '/images/scatterbox.webp'
+    const RHDR = '/images/RHDR.webp'
 </script>
 
 <svelte:head>
@@ -94,6 +95,21 @@
                 <div class="card-body">
                     <a class="card-title underline" href="https://www.roblox.com/games/131556520562288/Classified-Fusion-Reactor-Facility" target="_blank" rel="noopener noreferrer">
                     Classified Fusion Reactor Facility
+                    </a>
+                    <p></p>
+                    <div class="card-actions justify-end">
+                    </div>
+                </div>
+            </div>
+            <div class="card bg-base-200 shadow-sm">
+                <figure>
+                    <img
+                    src={RHDR}
+                    alt="RHDR" />
+                </figure>
+                <div class="card-body">
+                    <a class="card-title underline" href="https://realistic-hydroelectric-simulator.github.io/RHES_Wiki/" target="_blank" rel="noopener noreferrer">
+                    Realistic Hydroelectric Simulator Wiki
                     </a>
                     <p></p>
                     <div class="card-actions justify-end">
