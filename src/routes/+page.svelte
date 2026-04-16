@@ -28,7 +28,7 @@
                 </span>
             </span>
             <br/>
-            <span class="text-2xl" > With 5 years of experience and I want to help you build amazing things!</span>
+            <span class="text-2xl" > With 5 years(for MC plugins 3 weeks) of experience and I want to help you build amazing things!</span>
             </div>
             <div class="justify-center gap-4 mt-8 flex">
             <a href="https://github.com/felixqx1" target="_blank" rel="noopener noreferrer">
