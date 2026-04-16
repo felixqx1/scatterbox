@@ -21,7 +21,7 @@
             <span class="text-2xl" >I'm felixq and I'm a
                 <span class="text-rotate">
                     <span>
-                        <span>roblox game developer.</span>
+                        <span>minecraft plugin developer.</span>
                         <span>discord bot developer.</span>
                         <span>back-end developer.</span>
                     </span>
