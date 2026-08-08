@@ -188,6 +188,7 @@
       <br />
     </p>
     <p>Copyright © {new Date().getFullYear()} - All right reserved</p>
+    <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#ff0000', 'V1F024NQ8S');kofiwidget2.draw();</script> 
   </aside>
 </footer>
 
