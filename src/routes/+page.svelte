@@ -7,6 +7,7 @@
     const cfrf = '/images/cfrf.webp'
     const onpsWiki = '/images/onpsWiki.avif'
     const scatterbox = '/images/scatterbox.webp'
+    const unavailable = '/images/unavailable.png'
     const RHDR = '/images/RHDR.webp'
 </script>
 
@@ -117,6 +118,39 @@
                     </div>
                 </div>
             </div>
+            <div class="card bg-base-200 shadow-sm">
+                <figure>
+                    <img
+                    src={unavailable}
+                    alt="unavailable" 
+                    class="w-100 h-100" />
+                </figure>
+                <div class="card-body">
+                    <a class="card-title underline" href="https://admin.scatterbox.dev" target="_blank" rel="noopener noreferrer">
+                    Untitled Admin System
+                    </a>
+                    <p></p>
+                    <div class="card-actions justify-end">
+                    </div>
+                </div>
+            </div>
+            <div class="card bg-base-200 shadow-sm">
+                <figure>
+                    <img
+                    src={unavailable}
+                    alt="unavailable" 
+                    class="w-100 h-100" />
+                </figure>
+                <div class="card-body">
+                    <a class="card-title underline" href="https://rbwr.hotment.dev/credits" target="_blank" rel="noopener noreferrer">
+                    RBWR calc
+                    </a>
+                    <p></p>
+                    <div class="card-actions justify-end">
+                    </div>
+                </div>
+            </div>
+        </div>
         </div>
         <h2 class="text-3xl font-bold mt-10 mb-4">Hosting:</h2>
         <div class="grid justify-center grid-cols-1 gap-6">
@@ -175,8 +209,6 @@
                 </div>
             </div>
         </div>
-    </div>
-
 <footer class="footer footer-horizontal footer-center bg-base-100 text-primary-content p-10">
   <aside>
     <img
